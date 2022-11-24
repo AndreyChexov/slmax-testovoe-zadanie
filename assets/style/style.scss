@@ -1,0 +1,33 @@
+.creation_form {
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.form_wrapper {
+  height: 100ch;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+input {
+  margin: 5px 0 5px 0;
+}
+
+button {
+  margin-top: 10px;
+}
+
+.delete {
+
+  margin-left: 10px;
+}
+
+.list_item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin: 10px 0 10px 0;
+}
+
